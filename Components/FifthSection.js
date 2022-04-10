@@ -4,14 +4,14 @@ export default function FifthSection() {
   return (
     <div className="mx-auto container  2xl:mt-[250px] xl:mt-[200px] sm:mt-[100px] mt-[50px] lg:w-full ">
       <div className="  md:w-[688px] sm:w-[80%] w-[90%] ml-auto mr-auto ">
-        <div className="absolute xl:left-[10%] left-[5%] lg:-mt-[1.5%] sm:-mt-[12%] -mt-[15%]   ">
+        <div className="absolute 2xl:left-[10%] xl:left-[8%] left-[5%] lg:-mt-[1.5%] sm:-mt-[12%] -mt-[15%]   ">
           <img
             src="./images/ffi.svg"
             alt=" "
             className="   xl:max-w-full sm:max-w-[80%] max-w-[60%] "
           />
         </div>
-        <div className="absolute xl:right-[10%] right-0 lg:-mt-[1.5%] sm:-mt-[15%]  -mt-[20%] sm:mr-0 sm:block hidden   ">
+        <div className="absolute 2xl:right-[10%] xl:right-[8%] right-0 lg:-mt-[1.5%] sm:-mt-[15%]  -mt-[20%] sm:mr-0    ">
           <img
             src="./images/ffi2.svg"
             alt=" "
@@ -68,14 +68,14 @@ export default function FifthSection() {
             <img src="./images/icon.svg" alt=" " className="cursor-pointer " />
           </div>
         </div>
-        <div className="absolute xl:left-[10%] lg:mt-0 mt-5   ">
+        <div className="absolute 2xl:left-[10%] xl:left-[8%] left-[10%] lg:mt-0 mt-5   ">
           <img
             src="./images/ffi3.svg"
             alt=" "
             className=" xl:max-w-full sm:max-w-[80%] max-w-[60%]    "
           />
         </div>
-        <div className="absolute right-[10%] lg:mt-0 mt-5     ">
+        <div className="absolute 2xl:right-[10%] xl:right-[8%] right-[10%]  lg:mt-0 mt-5     ">
           <img
             src="./images/ffi4.svg"
             alt=" "

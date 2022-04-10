@@ -2,7 +2,7 @@
 
 export default function ThirdSection() {
   return (
-    <div className="mx-auto container xl:mt-[335px]  lg:mt-[200px] md:mt-[150px] sm:mt-[120px] mt-[0px] flex justify-between items-center  ">
+    <div className="mx-auto container 2xl:mt-[335px] xl:mt-[300px]  lg:mt-[200px] md:mt-[150px] sm:mt-[120px] mt-[0px] flex justify-between items-center  ">
       <div className="absolute left-0 xl:max-w-full md:max-w-[50%] sm:max-w-[55%] max-w-[45%]">
         <img src="./images/Aim.png" alt=" " className=" sm:h-auto h-[300px]" />
         <div className="absolute top-[10%] left-[10%] ">
@@ -12,11 +12,11 @@ export default function ThirdSection() {
             className=" sm:max-w-full max-w-[70%]   "
           />
         </div>
-        <div className="absolute left-[5%] mt-[5%] md:w-auto sm:max-w-[50%] max-w-[70%] ">
+        <div className="absolute left-[5%] mt-[5%] xl:w-auto lg:max-w-[30%] md:w-auto sm:max-w-[50%] max-w-[70%] ">
           <img src="./images/fri2.svg" alt=" " className="    " />
         </div>
       </div>
-      <div className=" ml-auto 2xl:-mr-20 lg:mr-20 sm:mr-0 mr-2 sm:mt-0 mt-[25%]    flex-col 2xl:w-[27%] xl:w-[31%] lg:w-[35%]   sm:max-w-[40%] max-w-[50%]  ">
+      <div className=" ml-auto  lg:mr-20 sm:mr-0 mr-2 sm:mt-0 mt-[25%]    flex-col 2xl:w-[27%] xl:w-[31%] lg:w-[35%]   sm:max-w-[40%] max-w-[50%]  ">
         <img src="./images/ti2.svg" alt=" " className=" mb-[5%]  " />
 
         <h1 className="font-extrabold xl:text-[36px] lg:text-[32px] sm:text-[24px]  text-[#111827]">

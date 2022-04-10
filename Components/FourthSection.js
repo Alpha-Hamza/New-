@@ -3,7 +3,7 @@
 export default function FourthSection() {
   return (
     <div className=" mx-auto container 2xl:mt-[310px] xl:mt-[260px] lg:mt-[200px] md:mt-[100px] mt-[150px] lg:w-full  sm:max-w-[90%]  ">
-      <div className="flex-col 2xl:w-[35%] xl:w-[51%] lg:w-[45%] md:w-[50%] sm:w-[60%] w-full ml-auto mr-auto ">
+      <div className="flex-col lg:w-[624px]  md:w-[50%] sm:w-[60%] w-full mx-auto">
         <div className="absolute lg:right-[10%] md:right-[5%] right-0 md:-mt-[5%] sm:-mt-[10%]  -mt-[7%] sm:mr-0  ">
           <img
             src="./images/fri.svg"
@@ -19,8 +19,8 @@ export default function FourthSection() {
           perfect team that cna deliver the best results & in record time.
         </p>
       </div>
-      <div className="  2xl:pl-0 xl:pl-[8%] sm:pl-0 pl-[2%]  justify-center sm:mt-[152px] mt-[100px] grid lg:grid-rows-2 sm:grid-rows-3 grid-rows-3  grid-flow-col xl:gap-x-[36px] lg:gap-x-[36px] xl:gap-y-[25%]  lg:gap-y-40 gap-y-20 xl:ml-0 lg:ml-16">
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+      <div className="  2xl:pl-0 xl:pl-[8%] sm:pl-0 pl-[2%]  justify-center sm:mt-[152px] mt-[100px] grid lg:grid-rows-2 sm:grid-rows-3 grid-rows-6  grid-flow-col xl:gap-x-[36px] lg:gap-x-[36px] xl:gap-y-[25%]  lg:gap-y-40 gap-y-20 xl:ml-0 lg:ml-16">
+        <div className=" mx-auto xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/team.svg" alt=" " className=" " />
           </div>
@@ -42,7 +42,7 @@ export default function FourthSection() {
             </button>
           </div>
         </div>
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%]  drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%]  rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+        <div className=" mx-auto  xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%]  drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%]  rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/fri5.svg" alt=" " className=" " />
           </div>
@@ -64,7 +64,7 @@ export default function FourthSection() {
             </button>
           </div>
         </div>
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%]  sm:max-w-[90%] max-w-[95%] drop-shadow-lg   2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+        <div className="mx-auto  xl:w-[329px] lg:max-w-[100%] md:max-w-[80%]  sm:max-w-[90%] max-w-[95%] drop-shadow-lg   2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/fri3.svg" alt=" " className=" " />
           </div>
@@ -86,7 +86,7 @@ export default function FourthSection() {
             </button>
           </div>
         </div>
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%]  drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+        <div className="mx-auto xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%]  drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/fri6.svg" alt=" " className=" " />
           </div>
@@ -108,7 +108,7 @@ export default function FourthSection() {
             </button>
           </div>
         </div>
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%]  sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+        <div className="mx-auto xl:w-[329px] lg:max-w-[100%] md:max-w-[80%]  sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/fri4.svg" alt=" " className=" " />
           </div>
@@ -130,7 +130,7 @@ export default function FourthSection() {
             </button>
           </div>
         </div>
-        <div className="xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
+        <div className="mx-auto xl:w-[329px] lg:max-w-[100%] md:max-w-[80%] sm:max-w-[90%] max-w-[95%] drop-shadow-lg  2xl:h-[404px] lg:h-[400px] h-[95%] rounded-[12px] bg-[#FFFFFF] flex-col justify-center">
           <div className="relative -top-[15%] flex justify-center  ">
             <img src="./images/team.svg" alt=" " className=" " />
           </div>

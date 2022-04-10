@@ -7,7 +7,7 @@ export default function Footer() {
         Contact Us
       </h1>
       <div className="flex justify-center sm:my-[56px] my-[36px]">
-        <p className=" font-normal text-[#FFFFFF] sm:text-[18px] text-[16px]  lg:w-[55%] sm:w-[90%] w-[80%] text-center">
+        <p className=" font-normal text-[#FFFFFF] sm:text-[18px] text-[16px] xl:w-[1061px] lg:w-[85%] sm:w-[90%] w-[80%] text-center">
           Finding a job that matches your skills & interest is a lot easier now,
           You can browse the jobs & apply whenever & wherever you want. Finding
           a Job that matches your skills & interest is a lot easier now, You can
@@ -29,7 +29,7 @@ export default function Footer() {
           <img src="./images/fi4.svg" alt=" " className="cursor-pointer " />
         </div>
       </div>
-      <div className=" mx-auto container flex justify-center 2xl:space-x-[220px] lg:space-x-[120px] md:space-x-[30px]   sm:space-x-[10px]  mt-[88.54px] pb-[88px] sm:w-auto max-w-[90%]">
+      <div className=" mx-auto container flex justify-center 2xl:space-x-[220px] xl:space-x-[120px] lg:space-x-[50px] md:space-x-[30px]   sm:space-x-[10px]  mt-[88.54px] pb-[88px] sm:w-auto max-w-[90%]">
         <div className="flex justify-center items-center lg:space-x-[20px]">
           <img
             src="./images/f.svg"
