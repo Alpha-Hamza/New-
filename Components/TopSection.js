@@ -34,7 +34,7 @@ export default function TopSection() {
             <img
               src="./images/hi3.svg"
               alt=" "
-              className="absolute  2xl:mt-[38%] xl:mt-[42.5%] lg:mt-[47%] md:mt-[48%] sm:mt-[43%] mt-[25%] lg:ml-[53%] md:ml-[58%] sm:ml-[60%] ml-[87%]  md:w-auto sm:max-w-[6%]  max-w-[5%]  "
+              className="absolute  2xl:mt-[36%] xl:mt-[42.5%] lg:mt-[47%] md:mt-[48%] sm:mt-[43%] mt-[25%] 2xl:ml-[52%] lg:ml-[53%] md:ml-[58%] sm:ml-[60%] ml-[87%]  md:w-auto sm:max-w-[6%]  max-w-[5%]  "
             />
           </div>
 
