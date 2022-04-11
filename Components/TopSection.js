@@ -17,7 +17,7 @@ export default function TopSection() {
           <img
             src="./images/Man.png"
             alt=" "
-            className="  relative xl:top-[24px] md:top-[34px] top-[64px] sm:h-auto h-[228px] 2xl:h-[870px] xl:h-[821px] md:h-[505px]  "
+            className="  relative xl:top-[24px] md:top-[34px] top-[64px] sm:h-auto h-[228px] 2xl:h-[1050px] xl:h-[821px] lg:h-[761px] md:h-[505px]  "
           />
         </div>
 

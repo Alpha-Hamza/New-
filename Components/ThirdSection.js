@@ -9,15 +9,15 @@ export default function ThirdSection() {
           <img
             src="./images/hi1.svg"
             alt=" "
-            className=" sm:max-w-full max-w-[70%]   "
+            className=" md:max-w-full sm:max-w-[70%] max-w-[50%]   "
           />
         </div>
-        <div className="absolute left-[5%] mt-[5%] xl:w-auto lg:max-w-[30%] md:w-auto sm:max-w-[50%] max-w-[70%] ">
+        <div className="absolute left-[5%] mt-[5%] xl:w-auto lg:max-w-[30%] md:w-auto sm:max-w-[50%] max-w-[60%] ">
           <img src="./images/fri2.svg" alt=" " className="    " />
         </div>
       </div>
       <div className=" ml-auto  lg:mr-20 sm:mr-0 mr-2 sm:mt-0 mt-[25%]    flex-col 2xl:w-[27%] xl:w-[31%] lg:w-[35%]   sm:max-w-[40%] max-w-[50%]  ">
-        <img src="./images/ti2.svg" alt=" " className=" mb-[5%]  " />
+        <img src="./images/ti2.svg" alt=" " className=" mb-[5%] sm:w-auto max-w-[25%]   " />
 
         <h1 className="font-extrabold xl:text-[36px] lg:text-[32px] sm:text-[24px]  text-[#111827]">
           How to Explore the Best Opportunites for Yourself?
@@ -97,7 +97,7 @@ export default function ThirdSection() {
           </div>
         </div>
       </div>
-      <div className="absolute 2xl:right-[5%] right-[5%] 2xl:mb-[40%] xl:mb-[50%] lg:mb-[57%] md:mb-[66%] sm:mb-[82%] mb-[106%] md:w-auto sm:max-w-[15%]  max-w-[20%]   ">
+      <div className="absolute 2xl:right-[10%] right-[5%] 2xl:mb-[40%] xl:mb-[50%] lg:mb-[57%] md:mb-[66%] sm:mb-[82%] mb-[106%] md:w-auto sm:max-w-[15%]  max-w-[15%]   ">
         <img src="./images/ti1.svg" alt=" " className="    " />
       </div>
     </div>
